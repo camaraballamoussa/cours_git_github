@@ -52,8 +52,9 @@ git merge "autre_branch"
 ```
 
 ## Commande pour la liaso
-```
+
 Liaison entre votre repertoire local et celui du web
+```
 git remote add origin "adresse_repo"
 ```
 Permet d'ajouter tous les fichiers sauvergarder dans votre repo
